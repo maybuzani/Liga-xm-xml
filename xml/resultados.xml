@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultados_liga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:noNamespaceSchemaLocation="../xsd/resultados.xsd">
+    <partido>
+        <equipo_local>Guadalajara</equipo_local>
+        <goles_local>2</goles_local>
+        <equipo_visitante>América</equipo_visitante>
+        <goles_visitante>1</goles_visitante>
+        <estadio>Estadio Akron</estadio>
+    </partido>
+    <partido>
+        <equipo_local>Tigres</equipo_local>
+        <goles_local>1</goles_local>
+        <equipo_visitante>Monterrey</equipo_visitante>
+        <goles_visitante>1</goles_visitante>
+        <estadio>Estadio Universitario</estadio>
+    </partido>
+</resultados_liga>
